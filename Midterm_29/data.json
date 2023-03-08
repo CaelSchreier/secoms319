@@ -1,0 +1,58 @@
+{
+    "animals": [
+        {
+            "speciesId": "Bovine",
+            "penTemp": "40-70 F",
+            "penHumidity": "50%-80%",
+            "animalBlurb": "Once the temperature goes above 80 degrees Fahrenheit cattle reduce feed intake, which has a negative impact on production. Cows on a high production level produce around 10 kg of moisture per day, which is released in the barn, so humidity need to be controlled.",
+            "url": "./images/cowsInPen.JPG"
+        },
+        {
+            "speciesId": "Ovine",
+            "penTemp": "45-70 F",
+            "penHumidity": "< 45%",
+            "animalBlurb": "Adult sheep are capable of enduring colder weather, but lambs are not. Lamb owners need to manage accordingly. Sheep are grazing animals that require exercise, light and fresh air for optimum health. Shelter can be provided by trees, windbreaks and purpose built shelters.",
+            "url": "./images/samSheep.jpg"
+        },
+        {
+            "speciesId": "Porcine",
+            "penTemp": "55-85% F",
+            "penHumidity": "60%-70%",
+            "animalBlurb": " If a pig is shivering, coughing, snotty or has sunken eyes, it's time to warm them up fast. Freezing temperatures are too cold, and if waterers are freezing that is a problem. Fresh water is so very important for hogs.",
+            "url": "./images/hogsInPen.jpg"
+        },
+        {
+            "speciesId": "Galine",
+            "penTemp": "65-75 F",
+            "penHumidity": "50%",
+            "animalBlurb": "An unhealthy amount of stress on the chickens, affect their organs, and potentially reduce their life expectancy. Because chickens do not have sweat glands, heat is trapped under their feathers.  If your hen reaches 18 weeks of age during the fall or winter when daylight hours are shorter, then consider adding supplemental light to the coop.",
+            "url": "./images/chickensInPen.JPG"
+        }
+    ],
+    "products": [
+        {
+            "productId": "Fan Mister",
+            "price": "$30-$100",
+            "productBlurb": "Misting systems and/or misting fans placed in tunnel barns or outdoor facilities help drop core temperatures in cows, reducing the chance for heat stress.",
+            "url": "./images/cattleMister.jpg"
+        },
+        {
+            "productId": "Livestock Camera System",
+            "price": "$100-$1000",
+            "productBlurb": "Livestock monitoring can help you more closely monitor an animal's current state and help you isolate sick animals and get them the help they need. ",
+            "url": "./images/cameraSystem.jpg"
+        },
+        {
+            "productId": "Temperature and Humidity Sensor",
+            "price": "$20-$200",
+            "productBlurb": "Temperature monitoring is very important for livestock production. Maintaining the correct climatic conditions will decrease the probability of ill-health and mortality in your herds.",
+            "url": "./images/tempSensor.jpg"
+        },
+        {
+            "productId": "Surge Protector",
+            "price": "$30-$180",
+            "productBlurb": "A surge protector is a device that is made to protect electronic equipment from unwanted power surges or 'spikes.'",
+            "url": "./images/surgeProtector.jpg"
+        }
+    ]
+}
