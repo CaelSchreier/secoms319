@@ -5,7 +5,7 @@
             "penTemp": "40-70 F",
             "penHumidity": "50%-80%",
             "animalBlurb": "Once the temperature goes above 80 degrees Fahrenheit cattle reduce feed intake, which has a negative impact on production. Cows on a high production level produce around 10 kg of moisture per day, which is released in the barn, so humidity need to be controlled.",
-            "url": "./images/cowsInPen.JPG"
+            "url": "./images/cowsInPen.jpg"
         },
         {
             "speciesId": "Ovine",
@@ -26,7 +26,7 @@
             "penTemp": "65-75 F",
             "penHumidity": "50%",
             "animalBlurb": "An unhealthy amount of stress on the chickens, affect their organs, and potentially reduce their life expectancy. Because chickens do not have sweat glands, heat is trapped under their feathers.  If your hen reaches 18 weeks of age during the fall or winter when daylight hours are shorter, then consider adding supplemental light to the coop.",
-            "url": "./images/chickensInPen.JPG"
+            "url": "./images/chickensInPen.jpg"
         }
     ],
     "products": [
